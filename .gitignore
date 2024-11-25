@@ -1,0 +1,16 @@
+*.map
+*.bak
+*.exe
+*.obj
+*.prf
+*.rsm
+*.dylib
+FastMM*
+*.bk1
+*.bk2
+*.orig
+/*.dcu
+!Midi*.dcu
+!CircBuf.dcu
+gpprof*
+*.~*

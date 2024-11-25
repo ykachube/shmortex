@@ -1,0 +1,2 @@
+[Error] WaveOutAPI.pas(280): Incompatible types: 'procedure, untyped pointer or untyped parameter' and 'dynamic array'
+[Fatal Error] VT.dpr(42): Could not compile used unit 'WaveOutAPI.pas'
